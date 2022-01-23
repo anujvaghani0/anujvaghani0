@@ -36,6 +36,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+## My Github Stats
+
+<div align="center">
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=anujvaghani0&hide=stars&show_icons=true&theme=tokyonight)  
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&langs_count=10&theme=tokyonight)
+  
+</div>
 
 <!-- Here are some ideas to get you started:
 
