@@ -38,13 +38,7 @@
 
 ## My Github Stats
 
-<div align="center">
-
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=anujvaghani0&hide=stars&show_icons=true&theme=tokyonight)  
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&langs_count=10&theme=tokyonight)
-  
-</div>
+<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a> | <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!-- Here are some ideas to get you started:
 
