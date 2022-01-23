@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### ANUJ VAGHANI
 
-## My Profiles
+## My Profiles 
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
   <a href="https://www.linkedin.com/in/anuj-vaghani-3495b51b7">
@@ -20,7 +20,7 @@
 
 
 
-## My Skills
+## My Skills 🎓
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
