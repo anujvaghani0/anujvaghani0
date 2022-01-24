@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/anujvaghani0">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://dev.to/anujvaghani">
+  <a href="https://dev.to/anujvaghani0">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
 </div>
