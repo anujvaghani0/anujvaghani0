@@ -1,6 +1,12 @@
 ### Hi there 👋
 ### ANUJ VAGHANI
+I am in IT Engineering. In which I am good at web development, Programming(C,C++,JAVA,Python),Machine Learning and data analytics.I am also intersted in cyber security,in which i am learning more.
 
+I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns I've never stopped engaging my passion to help others and solve problems.
+
+As Data Analytics, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.
+
+Current Focus: Machine Lerning // Cyber Security
 ## My Profiles 
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
