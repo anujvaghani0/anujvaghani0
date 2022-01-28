@@ -13,15 +13,19 @@ Current Focus: Machine Lerning // Cyber Security
   <a href="https://www.linkedin.com/in/anuj-vaghani-3495b51b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/anuj_vaghani0">
+<!--   <a href="https://twitter.com/anuj_vaghani0">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/anujvaghani0">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://dev.to/anujvaghani0">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
+  
+  [![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
+  [![GitHub anujvaghani0](https://img.shields.io/github/followers/anujvaghani0?label=follow%20github&style=flat-square)](https://github.com/anujvaghani0)
+
 </div>
 
 
