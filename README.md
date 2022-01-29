@@ -1,5 +1,6 @@
-### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### ANUJ VAGHANI
+## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Anuj Vaghani
+
+ ## About
 I am in IT Engineering. In which I am good at web development, Programming(C,C++,JAVA,Python),Machine Learning and data analytics.I am also intersted in cyber security,in which i am learning more.
 
 I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns I've never stopped engaging my passion to help others and solve problems.
