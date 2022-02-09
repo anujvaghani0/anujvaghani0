@@ -23,7 +23,7 @@
  
  [![Gmail Badge](https://img.shields.io/badge/-anujvaghani0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anujvaghani0@gmail.com)](mailto:anujvaghani0@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/anuj-vaghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-vaghani-3495b51b7)](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
-[![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
+ [![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
 [![GitHub anujvaghani0](https://img.shields.io/github/followers/anujvaghani0?label=follow%20github&style=flat-square)](https://github.com/anujvaghani0)
 
 </div>
