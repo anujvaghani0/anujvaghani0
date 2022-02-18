@@ -1,7 +1,7 @@
 ## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Anuj Vaghani
 
  ## About
-<b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), Machine Learning, and Data Analytics. I am also interested in cyber security, in which i am learning more.
+<b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), Machine Learning, and data analytics. I am also interested in cyber security, in which i am learning more.
 
 </b>
 
