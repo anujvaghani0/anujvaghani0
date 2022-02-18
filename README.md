@@ -1,11 +1,13 @@
 ## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Anuj Vaghani
 
  ## About
-<b>I am in IT Engineering.In Which I Am Good MERN Full Stack Developer, Prpgramming(C,JAVA,Python),Machine Learning And Data Analytics. I am also intersted in cyber security,in which i am learning more.</b>
+<b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), Machine Learning, and Data Analytics. I am also interested in cyber security, in which i am learning more.
+
+</b>
 
 <b>I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns I've never stopped engaging my passion to help others and solve problems.</b>
 
-<b>As Data Analytics, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.</b>
+<b>As Data Analytics, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to change the world.</b>
 
 <b>Current Focus: Machine Lerning//Data science </b>
 ## My Profiles 
