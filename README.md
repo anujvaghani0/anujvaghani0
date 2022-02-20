@@ -1,27 +1,27 @@
-## Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Anuj Vaghani
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
+<p align="center">
+    <a href="https://github.com/siddhi-244"><img src="hello.gif"style="width: 150px; height: 150px;"/></a> 
+</p>
 
- ## About
-<b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), Machine Learning, and data analytics. I am also interested in cyber security, in which i am learning more.
 
-</b>
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+ <p align="center">
+ <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b>
+<br>
+</p>
 
-<b>I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns I've never stopped engaging my passion to help others and solve problems.</b>
-
-<b>As Data Analytics, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to change the world.</b>
-
-<b>Current Focus: Machine Lerning//Data science </b>
-## My Profiles 
+<h2 align="center">Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
 <!--   <a href="https://twitter.com/anuj_vaghani0">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a> -->
-  <a href="https://www.facebook.com/anujvaghani0">
+<!--   <a href="https://www.facebook.com/anujvaghani0">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://dev.to/anujvaghani0">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
+  </a> -->
  
  [![Gmail Badge](https://img.shields.io/badge/-anujvaghani0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anujvaghani0@gmail.com)](mailto:anujvaghani0@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/anuj-vaghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-vaghani-3495b51b7)](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
@@ -32,7 +32,8 @@
 
 
 
-## My Skills 🎓
+<!-- ## My Skills 🎓 -->
+<h2 align="center"> 🔭 Technology Stack</h2>
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -53,14 +54,22 @@
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-<b>GitHub Stats🎯</b><br>
- 
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujvaghani0)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+                                 <div align="center">
+ <img width="25%" align="center" src="https://profile-counter.glitch.me/{anujvaghani0}/count.svg" /> 
+ </div>
+<div align="center">
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anujvaghani0)  
+</div>
 
-<img width="25%" src="https://profile-counter.glitch.me/{anujvaghani0}/count.svg" /> 
-
-## Tech Toolbox🧰
-
+<!-- <h2 align="center">Tech Toolbox🧰</h2>
 <p align="left">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
@@ -90,8 +99,8 @@
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
 
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
-
-## My Github Stats
+ -->
+<h2 align="center"> My Github Stats</h2>
 
 <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a> | <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a> |
 
