@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
 <p align="center">
-    <a href="https://github.com/siddhi-244"><img src="hello.gif"style="width: 150px; height: 150px;"/></a> 
+    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 150px; height: 150px;"/></a> 
 </p>
 
 
