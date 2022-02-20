@@ -4,11 +4,17 @@
 </p>
 
 
-<h2 align="center"> 👨‍💻 Who am I?</h2>
- <p align="center">
- <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b>
-<br>
-</p>
+<h2> 👨‍💻 Who am I?</h2>
+
+<!--  <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b> -->
+- 👨🏻‍🎓 Currently persuing my B.Tech in IT
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Machine learning + MERN Stack
+- 👯 I’m looking to collaborate on Creative Projects
+- 💬 Ask me about ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
 
 <h2 align="center">Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
