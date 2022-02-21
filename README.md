@@ -1,12 +1,14 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
-<p align="center">
-    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 150px; height: 150px;"/></a> 
-</p>
 
-
+  
+ <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 300px; height: 300px;"/></a> 
+<!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif'tyle="width: 200; height: 200;">   -->
 <h2> 👨‍💻 Who am I?</h2>
 
 <!--  <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b> -->
+
+<!--    <a href="https://github.com/anujvaghani0"><img src="hello2.gif"style="width: 200px; height: 200px;"/></a>  -->
+
 - 👨🏻‍🎓 Currently persuing my B.Tech in IT
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Machine learning + MERN Stack
@@ -16,7 +18,9 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 
-<h2 align="center">Reach out to me on </h2>
+
+
+<h2 align="right"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
 <!--   <a href="https://twitter.com/anuj_vaghani0">
