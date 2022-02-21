@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
 
   
- <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 300px; height: 300px;"/></a> 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 260px; height: 260px;"/></a> 
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif'tyle="width: 200; height: 200;">   -->
 <h2> 👨‍💻 Who am I?</h2>
 
@@ -20,7 +20,7 @@
 
 
 
-<h2 align="right"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
 <!--   <a href="https://twitter.com/anuj_vaghani0">
