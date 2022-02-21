@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
 
   
- <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 260px; height: 260px;"/></a> 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 250px; height: 250px;"/></a> 
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif'tyle="width: 200; height: 200;">   -->
 <h2> 👨‍💻 Who am I?</h2>
 
