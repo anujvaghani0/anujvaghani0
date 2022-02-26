@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
 
   
- <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 250px; height: 250px;"/></a> 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="hello2.gif" style="width: 300px; height: 300px;"/></a> 
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif'tyle="width: 200; height: 200;">   -->
 <h2> 👨‍💻 Who am I?</h2>
 
@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
 </div>
  <h2 align="center">Trophies</h2>
 <div align="center">
