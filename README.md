@@ -115,7 +115,8 @@
  -->
 <h2 align="center"> My Github Stats</h2>
 
-<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a> | <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a>
+<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
