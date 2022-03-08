@@ -1,6 +1,7 @@
 
-  <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani  <img src="Developer.gif" width="65px"></h1>
- <a href="https://github.com/anujvaghani0"><img align="right" src="pc.gif" style="width: 300px; height: 300px;"/></a> 
+  <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
+ 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="Developer.gif" style="width: 300px; height: 300px;"/></a> 
 
 <h2> 👨‍💻 Who am I?</h2>
 
@@ -45,7 +46,7 @@
 
 
 <!-- ## My Skills 🎓 -->
-<h2 align="center"> 🔭 Technology Stack</h2>
+<h2 align="center"> <img src="./rocket.gif" height="40px"> Technology Stack</h2>
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
