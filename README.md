@@ -1,7 +1,7 @@
 
   <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
  
- <a href="https://github.com/anujvaghani0"><img align="right" src="Developer.gif" style="width: 300px; height: 300px;"/></a> 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="Developer.gif" style="width: 400px; height: 400px;"/></a> 
 
 <h2> 👨‍💻 Who am I?</h2>
 
@@ -14,15 +14,13 @@
 - 🌱 I’m currently learning Machine learning + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about ...
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
 - 🥅 2022 Goals: Contribute more to Open Source projects
-
-
-
+- 📝 [Resume](https://1drv.ms/b/s!AnsTV21m3GlEg7ALq6forUvrqaV77Q)
 <br>
-
 <br>
-
+<br>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
