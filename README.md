@@ -68,10 +68,10 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=anujvaghani0)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
+<!-- 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
                                  <div align="center">
- <img width="25%" align="center" src="https://profile-counter.glitch.me/{anujvaghani0}/count.svg" /> 
+ <img width="25%" align="center" src="https://profile-counter.glitch.me/{anujvaghani0}/count.svg" />  -->
  </div>
 <div align="center">
     
@@ -111,9 +111,10 @@
  -->
 <h2 align="center"> My Github Stats</h2>
 
-<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a>
+<!-- <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a> -->
+<div align="center">
 <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a>
-
+</div>
 
 
 
