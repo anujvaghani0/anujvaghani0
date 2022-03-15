@@ -8,6 +8,7 @@
 <!--    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 200px; height: 200px;"/></a>  -->
 - 👨🏻‍🎓 Currently persuing my B.Tech in IT
 - 🔭 I’m currently working on 
+- 🚀  To infinity and beyond !
 - 🌱 I’m currently learning Machine learning + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about ...
