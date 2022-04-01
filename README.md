@@ -37,6 +37,8 @@
  [![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
 [![GitHub anujvaghani0](https://img.shields.io/github/followers/anujvaghani0?label=follow%20github&style=flat-square)](https://github.com/anujvaghani0)
 ![](https://komarev.com/ghpvc/?username=anujvaghani0&color=green)
+  [![Twitter:anuj_vaghani0](https://img.shields.io/badge/dev.to-anujvaghani0?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anujvaghani0)
+ 
 </div>
 
 
