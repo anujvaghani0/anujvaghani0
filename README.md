@@ -1,7 +1,7 @@
 
   <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
  
- <a href="https://github.com/anujvaghani0"><img align="right" src="Developer.gif" style="width: 350px; height: 350px;"/></a> 
+ <a href="https://github.com/anujvaghani0"><img align="right" src="img.jpg" style="width: 450px; height: 350px;"/></a> 
 <p align="right">👨‍💻 Who am I?</p>
 
 <!--  <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b> -->
