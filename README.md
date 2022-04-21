@@ -14,7 +14,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
-- ☘️ DEV community: [DEV.to](https://dev.to/anujvaghani0)
+- ☘️ community: [DEV.to](https://dev.to/anujvaghani0) & [StackOverflow](https://stackoverflow.com/users/18897554/anujvaghani0)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 [Resume](https://1drv.ms/b/s!AnsTV21m3GlEg7ALq6forUvrqaV77Q)
 <br>
