@@ -1,8 +1,8 @@
   <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
 <p align="center">👨‍💻 Who am I?</p>
 
-<!--  <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b> -->
-<!--    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 200px; height: 200px;"/></a>  -->
+
+
 - 👨🏻‍🎓 Currently persuing my B.Tech in IT
 - 🤝 Seeking for help in Open Source Contributions 
 - 🚀 To infinity and beyond !
@@ -14,19 +14,11 @@
 - ☘️ community: [DEV.to](https://dev.to/anujvaghani0) & [StackOverflow](https://stackoverflow.com/users/18897554/anujvaghani0)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 [Resume](https://1drv.ms/b/s!AnsTV21m3GlEg7ALq6forUvrqaV77Q)
+
+
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
-<!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
-<!--   <a href="https://twitter.com/anuj_vaghani0">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a> -->
-<!--   <a href="https://www.facebook.com/anujvaghani0">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://dev.to/anujvaghani0">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a> -->
- 
+
  [![Gmail Badge](https://img.shields.io/badge/-anujvaghani0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anujvaghani0@gmail.com)](mailto:anujvaghani0@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/anuj-vaghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-vaghani-3495b51b7)](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
  [![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
@@ -40,7 +32,6 @@
 
 <!-- ## My Skills 🎓 -->
 <h2 align="center"> <img src="./rocket.gif" height="40px"> Technology Stack</h2>
-<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
