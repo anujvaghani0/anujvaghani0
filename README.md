@@ -1,8 +1,5 @@
-
   <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
- 
- <a href="https://github.com/anujvaghani0"><img align="right" src="img.jpg" style="width: 400px; height: 350px;"/></a> 
-<p align="right">👨‍💻 Who am I?</p>
+<p align="center">👨‍💻 Who am I?</p>
 
 <!--  <samp><b>I am in IT Engineering. In which I am a good MERN Full Stack Developer, Programming(C, Java, Python), machine learning, and data analytics, in which i am learning more.I’ve Always Sought Out Opportunities And Challenges That Are Meaningful To Me. Although My Professional Path Has Taken Many Twists And Turns I've Never Stopped Engaging My Passion To Help Others And Solve Problems.As Data Analytics, I Enjoy Using My Obsessive Attention To Detail, My Unequivocal Love For Making Things, And My Mission-Driven Work Ethic To Literally Change The World.</samp></b> -->
 <!--    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 200px; height: 200px;"/></a>  -->
@@ -17,9 +14,6 @@
 - ☘️ community: [DEV.to](https://dev.to/anujvaghani0) & [StackOverflow](https://stackoverflow.com/users/18897554/anujvaghani0)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 [Resume](https://1drv.ms/b/s!AnsTV21m3GlEg7ALq6forUvrqaV77Q)
-<br>
-<br>
-<br>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
@@ -85,42 +79,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anujvaghani0)  
 </div>
 
-<!-- <h2 align="center">Tech Toolbox🧰</h2>
-<p align="left">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
 
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Visual%20Studio%20Code.png" alt="Visual Studio Code" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Numpy.png" alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pandas.png" alt="Pandas" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/TensorFlow.png" alt="TensorFlow" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/OpenCV.jpg" alt="OpenCV" width="40" height="40"/>
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/IoT.jpg" alt="IoT" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Arduino.png" alt="Arduino" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
- 
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/KeilUVision.png" alt="KeilUVision" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/DocklightScripting.png" alt="Docklight Scripting" width="40" height="40"/>
-
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Google-Cloud.png" alt="Google Cloud" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Azure.png" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/AWS.png" alt="AWS" width="40" height="40"/>
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Firebase.png" alt="Firebase" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
-
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
- -->
 <h2 align="center"> My Github Stats</h2>
-
-<!-- <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anujvaghani0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anujvaghani0's github stats" /></a> -->
 <div align="center">
-<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=black&hide_border=true" /></a>
 </div>
 
 
