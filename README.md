@@ -69,32 +69,8 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=anujvaghani0)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-<!-- 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-                                 <div align="center">
- <img width="25%" align="center" src="https://profile-counter.glitch.me/{anujvaghani0}/count.svg" />  -->
- </div>
-<div align="center">
-    
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anujvaghani0)  
-</div>
-
-
 <h2 align="center"> My Github Stats</h2>
 <div align="center">
 <a href="https://github.com/anujvaghani0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvaghani0&layout=compact&theme=black&hide_border=true" /></a>
 </div>
 
-
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
