@@ -1,5 +1,5 @@
   <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anuj Vaghani</h1>
-   <p style="margin-left: 30px;">👨‍💻 Who am I?</p>
+ <p>  &nbsp &nbsp &nbsp &nbsp👨‍💻 Who am I?</p>
    
 - 👨🏻‍🎓 Currently persuing my B.Tech in IT
 - 🤝 Seeking for help in Open Source Contributions 
