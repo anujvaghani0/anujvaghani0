@@ -13,7 +13,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
 - ☘️ community: [DEV.to](https://dev.to/anujvaghani0) & [StackOverflow](https://stackoverflow.com/users/18897554/anujvaghani0)
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📝 [Resume](https://1drv.ms/b/s!AnsTV21m3GlEg7EgGNt9ge6s5VN_3A)
+- 📝 [Resume](https://drive.google.com/file/d/19HIwAiTAH0sqHkRsmMvTyuTOPhQ_cb7H/view?usp=sharing)
 
 
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
