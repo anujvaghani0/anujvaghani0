@@ -15,18 +15,9 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 [Resume](https://drive.google.com/file/d/19HIwAiTAH0sqHkRsmMvTyuTOPhQ_cb7H/view?usp=sharing)
 
-
+<!--
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"> Reach out to me on </h2>
 <div align="center">
-
- [![Gmail Badge](https://img.shields.io/badge/-anujvaghani0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anujvaghani0@gmail.com)](mailto:anujvaghani0@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/anuj-vaghani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-vaghani-3495b51b7)](https://www.linkedin.com/in/anuj-vaghani-3495b51b7)
- [![Twitter:anuj_vaghani0](https://img.shields.io/twitter/follow/anuj_vaghani0?style=flat-square)](https://twitter.com/anuj_vaghani0)
-[![GitHub anujvaghani0](https://img.shields.io/github/followers/anujvaghani0?label=follow%20github&style=flat-square)](https://github.com/anujvaghani0)
-![](https://komarev.com/ghpvc/?username=anujvaghani0&color=green)
-
- 
-</div>
 
 
 
