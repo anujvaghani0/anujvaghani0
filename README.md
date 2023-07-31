@@ -11,19 +11,6 @@ Welcome to my GitHub profile! I'm passionate about data analytics and machine le
 - 🤝 Seeking help in Open Source Contributions
 - 🚀 To infinity and beyond!
 
-## Projects
-
-Here are a few highlighted projects that demonstrate my skills and expertise:
-
-- [Project 1](https://github.com/anujvaghani0/Online-Retail-Customer-Segmentation): Online retail customer segmentation
-- [Project 2](https://github.com/anujvaghani0/Airline-Passenger-Referral-Prediction): Airline Passenger Referral Prediction
-- [Project 3](https://github.com/anujvaghani0/Bike-Sharing-Demand-Prediction): Bike-Sharing-Demand-Prediction
-- [Project 4](https://github.com/anujvaghani0/Coccidiosis-Diseases-classfication): Coccidiosis-Diseases-classfication
-- [Project 5](https://github.com/anujvaghani0/Text-Summarization-NLP-Project): Text-Summarization-NLP-Project
-
-
-Feel free to explore the rest of my repositories for more projects and code!
-
 ## Skills
 
 ```python
@@ -61,6 +48,19 @@ if __name__ == "__main__":
 
 # Write 'python script_name.py' in the terminal to execute this script.
 ```
+## Projects
+
+Here are a few highlighted projects that demonstrate my skills and expertise:
+
+- [Project 1](https://github.com/anujvaghani0/Online-Retail-Customer-Segmentation): Online retail customer segmentation
+- [Project 2](https://github.com/anujvaghani0/Airline-Passenger-Referral-Prediction): Airline Passenger Referral Prediction
+- [Project 3](https://github.com/anujvaghani0/Bike-Sharing-Demand-Prediction): Bike-Sharing-Demand-Prediction
+- [Project 4](https://github.com/anujvaghani0/Coccidiosis-Diseases-classfication): Coccidiosis-Diseases-classfication
+- [Project 5](https://github.com/anujvaghani0/Text-Summarization-NLP-Project): Text-Summarization-NLP-Project
+
+
+Feel free to explore the rest of my repositories for more projects and code!
+
 ## Connect with Me
 
 I'm always open to collaborating on interesting projects or discussing data-related topics. Connect with me on LinkedIn or reach out via email!
