@@ -1,7 +1,7 @@
 # Hi there, I'm Anuj Vaghani! 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/anuj-vaghani-3495b51b7))
 
-Welcome to my GitHub profile! I'm passionate about data analytics and machine learning, and I love building intelligent systems that can extract insights from data. Here, you'll find some of my projects and code examples related to these fields.
+Welcome to my GitHub profile! I'm passionate about Data science, and I love building intelligent systems that can extract insights from data. Here, you'll find some of my projects and code examples related to these fields.
 
 ## About Me
 
